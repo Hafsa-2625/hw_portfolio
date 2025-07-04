@@ -40,7 +40,7 @@ export default function Navigation() {
     >
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <motion.div whileHover={{ scale: 1.05 }} className="text-2xl font-bold text-slate-800">
+          <motion.div whileHover={{ scale: 1.05 }} className="text-xl md:text-2xl font-black text-slate-800 leading-tight">
             Hafsa Waqar
           </motion.div>
 

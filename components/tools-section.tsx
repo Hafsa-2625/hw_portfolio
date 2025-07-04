@@ -2,12 +2,12 @@ import Image from "next/image"
 
 const tools = [
   { name: "Figma", icon: "/figma.png" },
-  { name: "Canva", icon: "/canva.jpg" },
+  { name: "Canva", icon: "/canva.png" },
   { name: "React", icon: "/react.png" },
   { name: "JavaScript", icon: "/js.png" },
   { name: "Tailwind CSS", icon: "/tailwind.png" },
-  { name: "HTML5", icon: "/html.jpg" },
-  { name: "CSS3", icon: "/css.jpg" },
+  { name: "HTML5", icon: "/html.png" },
+  { name: "CSS3", icon: "/css.png" },
   { name: "Adobe XD", icon: "/xd.png" },
   { name: "Photoshop", icon: "/ps.png" },
   { name: "Illustrator", icon: "/illustrator.png" },
